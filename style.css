@@ -7,6 +7,7 @@
     text-decoration: none;
     list-style-type: none;
     font-family: "Baloo Da 2", cursive;
+    overflow-x: hidden;
 }
 html{
     font-size: 62.5%;
